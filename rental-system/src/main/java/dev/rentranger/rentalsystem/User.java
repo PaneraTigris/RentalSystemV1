@@ -1,4 +1,4 @@
-package dev.rentranger.rental.entity;
+package dev.rentranger.rentalsystem;
 
 import javax.persistence.*;
 import java.util.Set;

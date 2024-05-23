@@ -1,4 +1,4 @@
-package dev.rentranger.rental.config;
+package dev.rentranger.rentalsystem;
 
 import dev.rentranger.rental.security.JwtRequestFilter;
 import dev.rentranger.rental.service.UserDetailsServiceImpl;

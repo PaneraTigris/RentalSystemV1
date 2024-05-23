@@ -1,4 +1,4 @@
-package dev.rentranger.rental.util;
+package dev.rentranger.rentalsystem;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

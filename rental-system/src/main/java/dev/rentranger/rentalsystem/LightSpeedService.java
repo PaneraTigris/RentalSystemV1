@@ -1,4 +1,4 @@
-package dev.rentranger.rental.service;
+package dev.rentranger.rentalsystem;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

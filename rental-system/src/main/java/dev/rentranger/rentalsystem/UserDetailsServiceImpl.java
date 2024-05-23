@@ -1,4 +1,4 @@
-package dev.rentranger.rental.service;
+package dev.rentranger.rentalsystem;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

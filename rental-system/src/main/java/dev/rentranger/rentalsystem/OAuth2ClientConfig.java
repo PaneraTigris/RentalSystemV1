@@ -1,4 +1,4 @@
-package dev.rentranger.rental.config;
+package dev.rentranger.rentalsystem;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

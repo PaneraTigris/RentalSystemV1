@@ -1,4 +1,4 @@
-package dev.rentranger.rental.security;
+package dev.rentranger.rentalsystem;
 
 import dev.rentranger.rental.service.UserDetailsServiceImpl;
 import dev.rentranger.rental.util.JwtUtil;

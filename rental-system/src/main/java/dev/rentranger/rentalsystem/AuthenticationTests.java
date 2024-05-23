@@ -1,4 +1,4 @@
-package dev.rentranger.rental;
+package dev.rentranger.rentalsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

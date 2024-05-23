@@ -1,4 +1,4 @@
-package dev.rentranger.rental.repository;
+package dev.rentranger.rentalsystem;
 
 import dev.rentranger.rental.entity.Camera;
 import org.springframework.data.jpa.repository.JpaRepository;

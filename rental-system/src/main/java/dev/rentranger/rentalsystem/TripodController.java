@@ -1,4 +1,4 @@
-package dev.rentranger.rental.controller;
+package dev.rentranger.rentalsystem;
 
 import dev.rentranger.rental.entity.Tripod;
 import dev.rentranger.rental.service.TripodService;

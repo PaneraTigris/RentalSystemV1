@@ -1,4 +1,4 @@
-package dev.rentranger.rental.controller;
+package dev.rentranger.rentalsystem;
 
 import dev.rentranger.rental.entity.Lens;
 import dev.rentranger.rental.service.LensService;

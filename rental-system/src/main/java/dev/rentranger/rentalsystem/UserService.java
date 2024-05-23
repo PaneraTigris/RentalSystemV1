@@ -1,4 +1,4 @@
-package dev.rentranger.rental.service;
+package dev.rentranger.rentalsystem;
 
 import dev.rentranger.rental.entity.User;
 import dev.rentranger.rental.repository.UserRepository;
