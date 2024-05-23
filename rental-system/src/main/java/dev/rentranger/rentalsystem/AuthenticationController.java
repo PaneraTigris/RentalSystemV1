@@ -62,4 +62,5 @@ public class AuthenticationController {
         } else {
             return ResponseEntity.badRequest().body("Token cannot be refreshed.");
         }
+    }
 }
