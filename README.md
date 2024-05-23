@@ -37,3 +37,7 @@ This rental system designed to be used to track and manage current rentals offer
 # Step 9: Project Management and Documentation
 - Keep Detailed Records: Document your development process, decisions made, and reasons for those decisions.
 - Project Tracking: Use your project management tools to track progress and adjust timelines as needed.
+
+# TODO
+- Set up myuser and mypass within application.properties
+- Set up access token/API key for API calls to Lightspeed
