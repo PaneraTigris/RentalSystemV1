@@ -1,7 +1,7 @@
 package dev.rentranger.rentalsystem;
 
-import dev.rentranger.rental.entity.Accessory;
-import dev.rentranger.rental.service.AccessoryService;
+import dev.rentranger.rentalsystem.entity.Accessory;
+import dev.rentranger.rentalsystem.service.AccessoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
