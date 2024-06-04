@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/AuthenticationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/AuthenticationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/entity/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/entity/Rental.java" afterDir="false" />
-    </list>
+    <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716867946581</updated>
-      <workItem from="1716867948811" duration="13732000" />
+      <workItem from="1716867948811" duration="13813000" />
     </task>
     <servers />
   </component>
