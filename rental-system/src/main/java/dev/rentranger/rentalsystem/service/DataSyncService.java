@@ -1,8 +1,10 @@
 package dev.rentranger.rentalsystem.service;
 
 import dev.rentranger.rentalsystem.entity.Camera;
+import dev.rentranger.rentalsystem.service.LightspeedApiService;
 import dev.rentranger.rentalsystem.repository.CameraRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 // Sync logic to pull data from Lightspeed and update database

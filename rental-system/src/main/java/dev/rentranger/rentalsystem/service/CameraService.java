@@ -1,6 +1,7 @@
 package dev.rentranger.rentalsystem.service;
 
 import dev.rentranger.rentalsystem.entity.Camera;
+import dev.rentranger.rentalsystem.entity.Lens;
 import dev.rentranger.rentalsystem.repository.CameraRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

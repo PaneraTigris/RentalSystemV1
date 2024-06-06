@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="" />
+    <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/controller/LightSpeedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/controller/LightSpeedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/CameraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/CameraService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/DataSyncService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/DataSyncService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LensService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LensService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LightSpeedService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LightspeedApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LightspeedApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/OAuth2Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/OAuth2Service.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,41 +32,53 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="rental-system" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2h4z4IBvGdeDzTUkCIWRtqO5tHq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build rental-system.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.RentalSystemApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build rental-system.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.RentalSystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="RentalSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="rental-system.main" />
@@ -81,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716867946581</updated>
       <workItem from="1716867948811" duration="13813000" />
+      <workItem from="1717696363678" duration="2344000" />
     </task>
     <servers />
   </component>

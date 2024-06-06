@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+
 @Service
 public class LensService {
 
@@ -26,7 +27,7 @@ public class LensService {
     }
 
     public Lens updateLens(Lens lens) {
-        return lensRepository.deleteById(id);
+        return lensRepository.save(lens);
     }
 
     public void deleteLens(Long id) {
