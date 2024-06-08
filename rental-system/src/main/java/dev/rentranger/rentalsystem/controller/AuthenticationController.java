@@ -1,5 +1,7 @@
 package dev.rentranger.rentalsystem.controller;
 
+import dev.rentranger.rentalsystem.service.AuthenticationRequest;
+import dev.rentranger.rentalsystem.service.AuthenticationResponse;
 import dev.rentranger.rentalsystem.service.UserDetailsServiceImpl;
 import dev.rentranger.rentalsystem.service.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
