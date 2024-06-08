@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/controller/LightSpeedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/controller/LightSpeedController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/CameraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/CameraService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/DataSyncService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/DataSyncService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LensService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LensService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LightSpeedService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LightspeedApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/LightspeedApiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/OAuth2Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/OAuth2Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +44,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -105,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716867946581</updated>
       <workItem from="1716867948811" duration="13813000" />
-      <workItem from="1717696363678" duration="2344000" />
+      <workItem from="1717696363678" duration="4250000" />
     </task>
     <servers />
   </component>
