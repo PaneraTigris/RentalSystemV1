@@ -24,4 +24,8 @@ public class User {
 
     public String getUsername() {return this.username;}
     public void setUsername(String username) {this.username = username;}
+
+    public Set<String> getRoles() {return roles;}
+
+    public void setRoles(Set<String> roles) {this.roles = roles;}
 }
