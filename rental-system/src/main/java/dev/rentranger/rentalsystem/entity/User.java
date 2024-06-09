@@ -2,8 +2,12 @@ package dev.rentranger.rentalsystem.entity;
 
 import javax.persistence.*;
 import java.util.Set;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table(name = "users")
 public class User {
 
     @Id
