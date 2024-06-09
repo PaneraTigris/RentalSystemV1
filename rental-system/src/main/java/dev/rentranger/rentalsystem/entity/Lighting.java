@@ -1,6 +1,6 @@
 package dev.rentranger.rentalsystem.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class Lighting {
