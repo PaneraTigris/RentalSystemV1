@@ -33,6 +33,10 @@ dependencies {
 	implementation 'org.springframework.security:spring-security-oauth2-core'
 }
 
+configurations.all {
+	exclude group: 'jakarta.servlet', module: 'jakarta.servlet-api'
+}
+
 tasks.named('test') {
 	useJUnitPlatform()
 }
