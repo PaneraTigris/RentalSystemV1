@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/entity/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/AuthenticationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/AuthenticationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/AuthenticationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/test/java/dev/rentranger/rentalsystem/AuthenticationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +25,7 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="rental-system" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -48,10 +42,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -103,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1716867946581</updated>
       <workItem from="1716867948811" duration="13813000" />
-      <workItem from="1717696363678" duration="7074000" />
+      <workItem from="1717696363678" duration="9387000" />
+      <workItem from="1717948240729" duration="426000" />
     </task>
     <servers />
   </component>
