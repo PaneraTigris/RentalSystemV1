@@ -11,11 +11,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 public class AppConfig2 {
 
     @Bean
-    public PasswordEncoder passwordEncoder() {
-        return new BCryptPasswordEncoder();
-    }
-
-    @Bean
     public UserService userService(UserRepository userRepository, PasswordEncoder passwordEncoder) {
         return new UserService(userRepository, passwordEncoder);
     }
