@@ -14,10 +14,6 @@ import org.springframework.security.oauth2.client.web.OAuth2AuthorizedClientRepo
 @EnableWebSecurity
 public class OAuth2ClientConfig {
 
-    @Bean
-    public ClientRegistrationRepository clientRegistrationRepository() {
-        return new InMemoryClientRegistrationRepository(lightspeedClientRegistration());
-    }
 
     private ClientRegistration lightspeedClientRegistration() {
         return ClientRegistration.withRegistrationId("lightspeed")

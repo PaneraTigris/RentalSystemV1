@@ -18,6 +18,7 @@ import org.springframework.security.oauth2.client.registration.ClientRegistratio
 import org.springframework.security.oauth2.client.registration.InMemoryClientRegistrationRepository;
 import org.springframework.security.oauth2.client.web.OAuth2AuthorizedClientRepository;
 import org.springframework.security.oauth2.client.web.reactive.function.client.ServletOAuth2AuthorizedClientExchangeFilterFunction;
+import org.springframework.security.oauth2.core.AuthorizationGrantType;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 import org.springframework.web.reactive.function.client.WebClient;
@@ -73,6 +74,7 @@ public class SecurityConfig {
                 .clientId("mock-client-id")
                 .clientSecret("mock-client-secret")
                 .scope("read", "write")
+                .authorizationGrantType(AuthorizationGrantType.AUTHORIZATION_CODE)  // Set the authorization grant type
                 .authorizationUri("https://mock-authorization-uri.com")
                 .tokenUri("https://mock-token-uri.com")
                 .userInfoUri("https://mock-userinfo-uri.com")

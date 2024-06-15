@@ -8,13 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/repository/ClientRegistrationRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/config/AppConfig2.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/config/AppConfig2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/config/OAuth2ClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/config/OAuth2ClientConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/src/main/java/dev/rentranger/rentalsystem/repository/ClientRegistrationRepository.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
       <workItem from="1717696363678" duration="9387000" />
       <workItem from="1717948240729" duration="6590000" />
       <workItem from="1717955214976" duration="7155000" />
-      <workItem from="1718417500577" duration="3130000" />
+      <workItem from="1718417500577" duration="3714000" />
     </task>
     <servers />
   </component>
