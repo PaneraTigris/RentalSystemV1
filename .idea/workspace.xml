@@ -8,11 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17d8464-b69b-45a7-976a-a6e44b95467e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rental-system/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/test/java/dev/rentranger/rentalsystem/AuthenticationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/test/java/dev/rentranger/rentalsystem/JwtRequestFilterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental-system/src/test/java/dev/rentranger/rentalsystem/RentalSystemApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental-system/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/rental-system/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +153,7 @@
       <workItem from="1717948240729" duration="6590000" />
       <workItem from="1717955214976" duration="7155000" />
       <workItem from="1718417500577" duration="4528000" />
-      <workItem from="1718733363038" duration="2074000" />
+      <workItem from="1718733363038" duration="3701000" />
     </task>
     <servers />
   </component>
