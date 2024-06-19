@@ -41,7 +41,7 @@ public class SecurityConfig {
                 .authorizeHttpRequests(authz -> authz
                         .requestMatchers("/api/admin/**").hasRole("ADMIN")
                         .requestMatchers("/api/user/**").hasRole("USER")
-                        .requestMatchers("/api/auth/**").permitAll()
+                        .requestMatchers("/api/auth/**", "/").permitAll()  // Allow access to root and auth endpoints
                         .anyRequest().authenticated()
                 )
                 .sessionManagement(session -> session
